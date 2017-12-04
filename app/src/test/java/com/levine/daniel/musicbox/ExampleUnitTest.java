@@ -1,4 +1,4 @@
-package com.levine.daniel.mediaplayerapp;
+package com.levine.daniel.musicbox;
 
 import org.junit.Test;
 

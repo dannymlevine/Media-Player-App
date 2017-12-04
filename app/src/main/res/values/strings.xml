@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">mediaplayerapp</string>
+    <string name="app_name">MusicBox</string>
+    <string name="song_name">Age of Worry</string>
+    <string name="artist_name">John Mayer</string>
+    <string name="start_time">0:00</string>
+    <string name="remaining_time">X:XX</string>
 </resources>

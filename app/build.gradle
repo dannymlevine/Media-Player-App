@@ -3,7 +3,7 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 26
     defaultConfig {
-        applicationId "com.levine.daniel.mediaplayerapp"
+        applicationId "com.levine.daniel.musicbox"
         minSdkVersion 19
         targetSdkVersion 26
         versionCode 1
